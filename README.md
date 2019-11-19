@@ -20,4 +20,6 @@ And run it with (put your text at the end instead of 01):
 
 Or just use the shell script and try: `./vanity.sh 01`
 
+![image](https://user-images.githubusercontent.com/11134288/69145196-03fd7a00-0ac5-11ea-8c41-1c00d67f4d26.png)
+
 ---
